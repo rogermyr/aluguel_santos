@@ -22,5 +22,5 @@ Para este projeto foram considerados apenas os bairros que tiveram mais de 100 e
 
 ### Desenvolvimento do Projeto:
 Na pasta "Desenvolvimento" possui todo o desenvolvimento do projeto, desde as ferramentas utilizadas para fazer o webscrapping até a criação do arquivo com o modelo já treinado a ser utilizado no nosso deploy.
-#
+
 Todo o desenvolvimento pode ser acompanhado através do arquivo "Aluguel - Santos.ipynb".

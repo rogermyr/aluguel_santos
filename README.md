@@ -2,7 +2,6 @@
 
 ##### Demonstração: https://aluguel-santos.herokuapp.com
 ##### Projeto desenvolvido em Python, em conjunto com o streamlit e heroku para fazer o deploy da aplicação.
-#
 Calculadora utilizada para estimar o valor do aluguel na cidade de Santos, baseado nas caractéristicas do imóvel fornecidas.
 Para este projeto foram considerados apenas os bairros que tiveram mais de 100 entradas após o uso do webscrapper desenvolvido.
 

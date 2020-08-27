@@ -1,0 +1,576 @@
+,Unnamed: 0,endereco,CEP,Bairro,lat,long
+0,0, Rua Carlos Afonseca  ,11055240,Gonzaga,-23.9687872,-46.3313938
+1,1, Avenida Doutor Epitácio Pessoa ,11045301,Boqueirão,-23.9648026,-46.3235849
+2,2, Rua República do Equador  ,11030150,Ponta da Praia,-23.9821374,-46.2999354
+3,3, Avenida General Francisco Glicério  ,11065400,Encruzilhada,-23.9673822,-46.3328146
+4,4, Rua João Caetano  ,11070310,Campo Grande,-23.9582251,-46.3379206
+5,5, Rua 1 de Maio  ,11035181,Aparecida,-23.9781859,-46.3044871
+6,6, Avenida Rei Alberto I ,11030381,Ponta da Praia,-23.9884784,-46.2984655
+7,7, Avenida Presidente Wilson  ,11065200,Gonzaga,-23.9673822,-46.3328146
+8,8, Avenida Bartolomeu de Gusmão ,11045400,Boqueirão,-23.9648026,-46.3235849
+9,9, Avenida Bartolomeu de Gusmão  ,11045400,Boqueirão,-23.9648026,-46.3235849
+10,10, Rua Doutor Lobo Viana  ,11045120,Boqueirão,-23.9647004,-46.3216018
+11,11, Avenida Rei Alberto I  ,11030381,Ponta da Praia,-23.9884784,-46.2984655
+12,12, Rua Robert Sandall ,11030530,Ponta da Praia,-23.9842532,-46.3068872
+13,13, Ponta da Praia Santos ,11030400,Ponta da Praia,-23.9821374,-46.2999354
+14,14, Gonzaga Santos ,11060001,Gonzaga,-23.954249995,-46.334
+15,15, Avenida Vicente de Carvalho ,11045500,Boqueirão,-23.9648026,-46.3235849
+16,16, Rua Ministro João Mendes  ,11040261,Embaré,-23.9713823,-46.3152154
+17,17, Avenida Senador Pinheiro Machado  ,11075000,Marapé,-23.9556817,-46.3468306
+18,18, Rua Voluntários Santistas ,11055020,Boqueirão,-23.9651124,-46.3261718
+19,19, Avenida Washington Luiz  ,11050200,Vila Mathias,-23.9462657,-46.3276913
+20,20, Avenida Washington Luiz ,11050200,Vila Mathias,-23.9462657,-46.3276913
+21,21, Avenida Marechal Floriano Peixoto  ,11060301,Gonzaga,-23.9673822,-46.3328146
+22,22, Rua Pereira Barreto ,11065110,Gonzaga,-23.9665436,-46.3351796
+23,23, Rua Galeão Carvalhal  ,11055201,Gonzaga,-23.967704,-46.3309403
+24,24, Rua Paraguassú  ,11050020,Boqueirão,-23.9580113,-46.3247381
+25,25, Rua Waldomiro Silveira ,11055150,Boqueirão,-23.9674603,-46.3255402
+26,26, Rua Galeão Coutinho  ,11040210,Embaré,-23.969086,-46.3192361
+27,27, Rua Doutor Egydio Martins  ,11030161,Ponta da Praia,-23.9854292,-46.3002491
+28,28,                Gonzaga Santos ,11060001,Gonzaga,-23.954249995,-46.334
+29,29,                Rua Pindorama  ,11045530,Boqueirão,-23.9697338,-46.3283727
+30,30,                Avenida Presidente Wilson  ,11065200,Gonzaga,-23.9673822,-46.3328146
+31,31,                Avenida Ana Costa ,11060000,Vila Mathias,-23.9678823,-46.3288865
+32,32,                Rua Ricardo Pinto  ,11035171,Aparecida,-23.983091,-46.3099026
+33,33,                Marapé Santos ,11070061,Marapé,-23.9591507,-46.3482764
+34,34,                Rua Doutor Luís de Faria  ,11060480,Gonzaga,-23.9673822,-46.3328146
+35,35,                Avenida Presidente Wilson ,11065200,Gonzaga,-23.9673822,-46.3328146
+36,36,                Avenida Siqueira Campos ,11015300,Macuco,-23.9563229,-46.3159668
+37,37,                Avenida Prefeito Doutor Antônio Manoel de Carvalho  ,11070440,Marapé,-23.9556817,-46.3468306
+38,38,                Rua Galeão Carvalhal ,11055201,Gonzaga,-23.967704,-46.3309403
+39,39,                Avenida Washington Luiz  ,11050200,Vila Mathias,-23.9462657,-46.3276913
+40,40,                Rua Oswaldo Cruz ,11045101,Boqueirão,-23.9633391,-46.3217163
+41,41,                Rua Pereira Barreto ,11065110,Gonzaga,-23.9665436,-46.3351796
+42,43,                Rua Brigadeiro Galvão ,11030370,Ponta da Praia,-23.9875537,-46.304464
+43,44,                Rua Gonçalves Ledo  ,11070330,Campo Grande,-23.9582251,-46.3379206
+44,45,                Ponta da Praia Santos ,11030400,Ponta da Praia,-23.9821374,-46.2999354
+45,46,                Rua Inglaterra  ,11030510,Ponta da Praia,-23.9858337,-46.3075792
+46,47,                Rua Doutor Cezário da Motta  ,11045040,Boqueirão,-23.9626634,-46.3224474
+47,48,                Rua Godofredo Fraga ,11070400,Marapé,-23.9556817,-46.3468306
+48,49,                Rua Euclides da Cunha ,11065100,Gonzaga,-23.9673822,-46.3328146
+49,50,                Rua General Jardim  ,11025160,Embaré,-23.9685829,-46.3078007
+50,51,                Avenida Vicente de Carvalho  ,11045500,Boqueirão,-23.9648026,-46.3235849
+51,52,                Avenida Doutor Epitácio Pessoa ,11045301,Boqueirão,-23.9648026,-46.3235849
+52,53,                Rua Marcelo Ribeiro de Mendonça ,11030210,Ponta da Praia,-23.9864328,-46.2983035
+53,54,                Avenida Afonso Pena  ,11020000,Boqueirão,-23.9648026,-46.3235849
+54,55,                Rua Bassim Nagib Trabulsi  ,11030540,Ponta da Praia,-23.9847367,-46.308623
+55,56,                Avenida Doutor Moura Ribeiro  ,11070061,Marapé,-23.9591507,-46.3482764
+56,57,                Rua Tolentino Filgueiras  ,11060470,Gonzaga,-23.9673822,-46.3328146
+57,58,                Rua José Caballero  ,11055300,Gonzaga,-23.9646936,-46.330859
+58,59,                Avenida Barão de Penedo ,11065651,José Menino,-23.965889,-46.348432
+59,60,                Boqueirão Santos ,11045230,Boqueirão,-23.9648026,-46.3235849
+60,61,                Aparecida Santos ,11030550,Aparecida,-23.9827132,-46.3085341
+61,62,                Vila Mathias Santos ,11060000,Vila Mathias,-23.9678823,-46.3288865
+62,64,                Avenida Doutor Epitácio Pessoa  ,11045301,Boqueirão,-23.9648026,-46.3235849
+63,65,                Rua Doutor Itapura de Miranda ,11055090,Boqueirão,-23.9656138,-46.3246973
+64,66,                Rua Guaiaó ,11035260,Aparecida,-23.9803727,-46.3067913
+65,67,                Rua Dona Maria Máximo ,11030101,Ponta da Praia,-23.9648700017,-46.3382349618
+66,68,                Rua Monsenhor Paula Rodrigues  ,11075350,Vila Belmiro,-23.9509272,-46.3317511
+67,69,                Avenida Almirante Saldanha da Gama  ,11030400,Ponta da Praia,-23.9821374,-46.2999354
+68,70,                Rua Sampaio Moreira ,11040080,Embaré,-23.9765496,-46.3151889
+69,71,                Avenida General Francisco Glicério  ,11065405,José Menino,-23.9681964,-46.3509623
+70,72,                Rua Paraíba ,11065470,Pompéia,-23.9630212,-46.3399845
+71,73,                Avenida Marechal Deodoro ,11060400,Gonzaga,-23.9673822,-46.3328146
+72,74,                Rua Saturnino de Brito ,11070000,Marapé,-23.9556817,-46.3468306
+73,75,                Rua Doutor Guilherme Álvaro ,11070370,Marapé,-23.963716,-46.349583
+74,76,                Avenida Conselheiro Nébias ,11015000,Paquetá,-23.9362153,-46.3208162
+75,77,                Rua Duque de Caxias  ,11075680,Campo Grande,-23.9599394,-46.3415301
+76,78,                Avenida Bartolomeu de Gusmão ,11045400,Boqueirão,-23.9648026,-46.3235849
+77,79,                Rua  de Julho ,11070150,Marapé,-23.9556817,-46.3468306
+78,80,                Avenida Bernardino de Campos ,11075535,Vila Belmiro,-23.9582198,-46.3380434
+79,81,                Rua Euclides da Cunha  ,11065100,Gonzaga,-23.9673822,-46.3328146
+80,82,                Rua José Caballero ,11055300,Gonzaga,-23.9646936,-46.330859
+81,83,                Avenida Bartolomeu de Gusmão  ,11045400,Boqueirão,-23.9648026,-46.3235849
+82,84,                Rua Minas Gerais  ,11055101,Boqueirão,-23.9681705,-46.3266214
+83,85,                Rua da Liberdade ,11025030,Boqueirão,-23.9648026,-46.3235849
+84,86,                Rua Paraguai ,11060490,Gonzaga,-23.9616717,-46.3344026
+85,87,                Avenida General San Martin ,11030251,Ponta da Praia,-23.9856061,-46.2996848
+86,88,                Rua Rio Grande do Sul ,11065660,José Menino,-23.9669159,-46.3506942
+87,89,                Rua Doutor Luís de Faria ,11060480,Gonzaga,-23.9673822,-46.3328146
+88,90,                Rua Mário Carpenter ,11055260,Gonzaga,-23.9685524,-46.3303159
+89,91,                Avenida Rei Alberto I ,11030381,Ponta da Praia,-23.9884784,-46.2984655
+90,92,                Avenida Conselheiro Nébias  ,11015000,Paquetá,-23.9362153,-46.3208162
+91,93,                Rua Doutor Artur Porchat de Assis ,11045540,Boqueirão,-23.970063,-46.3270793
+92,94,                Avenida Almirante Cochrane ,11040000,Aparecida,-23.9735381,-46.3055176
+93,95,                Rua Galeão Carvalhal  ,11055201,Gonzaga,-23.967704,-46.3309403
+94,96,                Avenida Afonso Pena ,11020000,Boqueirão,-23.9648026,-46.3235849
+95,97,                Avenida Senador Pinheiro Machado ,11075000,Marapé,-23.9556817,-46.3468306
+96,98,                Rua Vereador Henrique Soler ,11030011,Ponta da Praia,-23.9824725,-46.2976242
+97,99,                Avenida Siqueira Campos  ,11015300,Macuco,-23.9563229,-46.3159668
+98,100,                Rua Professor Pirajá da Silva  ,11035200,Aparecida,-23.9773217,-46.30679
+99,101,                Avenida Ana Costa  ,11060000,Vila Mathias,-23.9678823,-46.3288865
+100,102,                Rua Alexandre Martins ,11025200,Aparecida,-23.9735381,-46.3055176
+101,103,                Rua Santa Catarina  ,11065670,José Menino,-23.9672744,-46.3528881
+102,104,                Rua Doutor Egydio Martins  ,11030161,Ponta da Praia,-23.9854292,-46.3002491
+103,105,                Praça Nossa Senhora do Carmo  ,11030230,Ponta da Praia,-23.9866314,-46.2997018
+104,106,                Rua Rio de Janeiro  ,11075345,Campo Grande,-23.9540824,-46.3361145
+105,107,                Rua Bassim Nagib Trabulsi ,11030540,Ponta da Praia,-23.9847367,-46.308623
+106,108,                Avenida Barão de Penedo  ,11065651,José Menino,-23.965889,-46.348432
+107,109,                Campo Grande Santos ,11065002,Campo Grande,-23.9582251,-46.3379206
+108,110,                José Menino Santos ,11065690,José Menino,-23.9660028,-46.3503258
+109,112,                Rua Pasteur ,11060440,Gonzaga,-23.9624399,-46.3346539
+110,113,                Rua Delphin Moreira  ,11040101,Embaré,-23.9725294,-46.313399
+111,114,                Rua Frederico Ozanam  ,11065240,José Menino,-23.9672145,-46.3484681
+112,115,                Avenida Marechal Floriano Peixoto ,11060301,Gonzaga,-23.9673822,-46.3328146
+113,116,                Rua Cásper Líbero ,11065230,José Menino,-23.9667474,-46.3471272
+114,117,                Rua Marcílio Dias  ,11060210,Gonzaga,-23.9679913,-46.3340492
+115,118,                Rua Alexandre Martins  ,11025200,Aparecida,-23.9735381,-46.3055176
+116,119,                Embaré Santos ,11040001,Embaré,-23.9560499975,-46.328583188
+117,120,                Praça Engenheiro José Rebouças ,11030000,Ponta da Praia,-23.9572199942,-46.3298635211
+118,121,                Avenida Doutor Bernardino de Campos ,11075535,Vila Belmiro,-23.9582198,-46.3380434
+119,122,                Rua Nabuco de Araújo ,11025010,Boqueirão,-23.9648026,-46.3235849
+120,123,                Rua Paraguassú ,11050020,Boqueirão,-23.9580113,-46.3247381
+121,124,                Rua André Vidal de Negreiros ,11035081,Ponta da Praia,-23.9857611,-46.3042733
+122,125,                Rua Godofredo Fraga  ,11070400,Marapé,-23.9556817,-46.3468306
+123,126,                Avenida Prefeito Doutor Antônio Manoel de Carvalho ,11070440,Marapé,-23.9556817,-46.3468306
+124,127,                Rua Teixeira de Freitas  ,11075720,Campo Grande,-23.9582251,-46.3379206
+125,128,                Rua Cásper Líbero  ,11065230,José Menino,-23.9667474,-46.3471272
+126,129,                Rua Quintino Bocaiúva ,11060230,Gonzaga,-23.9671628,-46.3372207
+127,130,                Rua Newton Prado  ,11065260,José Menino,-23.9674833,-46.3504979
+128,131,                Rua Pedro Américo ,11075400,Campo Grande,-23.9582251,-46.3379206
+129,132,                Rua Ministro Xavier de Toledo  ,11070300,Campo Grande,-23.9608469,-46.3414262
+130,133,                Avenida Bernardino de Campos  ,11075535,Vila Belmiro,-23.9582198,-46.3380434
+131,134,                Rua Oswaldo Cruz  ,11045101,Boqueirão,-23.9633391,-46.3217163
+132,135,                Rua Doutor Samuel Baccarat  ,11055040,Boqueirão,-23.9648026,-46.3235849
+133,136,                Avenida Doutor Moura Ribeiro ,11070061,Marapé,-23.9591507,-46.3482764
+134,137,                Rua Vahia de Abreu ,11050120,Boqueirão,-23.9648026,-46.3235849
+135,138,                Rua Bahia  ,11060450,Gonzaga,-23.9673822,-46.3328146
+136,139,                Rua Bolivar ,11045360,Boqueirão,-23.9689307,-46.3213339
+137,140,                Rua Senador Lacerda Franco  ,11025180,Aparecida,-23.9716014,-46.303976
+138,141,                Rua Guaibê ,11035191,Aparecida,-23.9776041,-46.3062911
+139,142,                Avenida Doutor Bernardino de Campos  ,11075535,Vila Belmiro,-23.9582198,-46.3380434
+140,143,                Rua República do Equador ,11030150,Ponta da Praia,-23.9821374,-46.2999354
+141,144,                Rua Olavo Bilac ,11065220,Pompéia,-23.9666063,-46.3424244
+142,145,                Rua Pernambuco ,11065050,Gonzaga,-23.9648027,-46.3375147
+143,146,                Rua Pernambuco  ,11065050,Gonzaga,-23.9648027,-46.3375147
+144,147,                Rua Doutor Luís Suplicy  ,11055330,Gonzaga,-23.9619275,-46.3321456
+145,148,                Avenida Washington Luís ,11050200,Vila Mathias,-23.9462657,-46.3276913
+146,149,                Rua Pindorama ,11045530,Boqueirão,-23.9697338,-46.3283727
+147,150,                Avenida Pedro Lessa ,11025001,Ponta da Praia,-23.9821374,-46.2999354
+148,151,                Rua Carlos Afonseca ,11055240,Gonzaga,-23.9687872,-46.3313938
+149,152,                Rua Doutor Egydio Martins ,11030161,Ponta da Praia,-23.9854292,-46.3002491
+150,153,                Rua Dona Ana Nery  ,11070240,Marapé,-23.9507341,-46.3439474
+151,154,                Rua Paraná  ,11050250,Encruzilhada,-23.9534861,-46.3260717
+152,155,                Avenida Conselheiro Rodrigues Alves  ,11015200,Macuco,-23.9563229,-46.3159668
+153,156,                Avenida dos Bancários ,11030300,Ponta da Praia,-23.9821374,-46.2999354
+154,157,                Rua Guaibe  ,11035191,Aparecida,-23.9776041,-46.3062911
+155,158,                Rua João Caetano ,11070310,Campo Grande,-23.9582251,-46.3379206
+156,159,                Rua André Vidal de Negreiros  ,11035081,Ponta da Praia,-23.9857611,-46.3042733
+157,160,                Rua São José ,11088501,Rádio Clube,-23.9678823,-46.3288865
+158,161,                Avenida Senador Feijó ,11015500,Centro,-23.9678823,-46.3288865
+159,162,                Rua Professor Torres Homem ,11025020,Boqueirão,-23.9648026,-46.3235849
+160,163,                Rua Jorge Tibiriçá  ,11055250,Gonzaga,-23.9682785,-46.3301037
+161,164,                Rua Maestro Heitor Vila Lobos ,11030240,Ponta da Praia,-23.9839833,-46.2985379
+162,165,                Rua Jorge Tibiriçá ,11055250,Gonzaga,-23.9682785,-46.3301037
+163,166,                Rua Emílio Ribas ,11015070,Vila Mathias,-23.9481686,-46.3199135
+164,167,                Rua Rodrigo Silva ,11015240,Macuco,-23.9607102,-46.3102593
+165,168,                Rua Bahia ,11060450,Gonzaga,-23.9673822,-46.3328146
+166,169,                Rua Doutor Samuel Baccarat ,11055040,Boqueirão,-23.9648026,-46.3235849
+167,170,                Rua República do Peru  ,11030290,Ponta da Praia,-23.9887801,-46.3029034
+168,171,                Macuco Santos ,11020001,Macuco,-23.9563229,-46.3159668
+169,172,                Rua Pasteur  ,11060440,Gonzaga,-23.9624399,-46.3346539
+170,173,                Rua Frei Vital  ,11025090,Embaré,-23.963967,-46.3171147
+171,174,                Rua Eloy Fernandes ,11055110,Boqueirão,-23.9671941,-46.3275557
+172,175,                Rua Barão de Paranapiacaba ,11050250,Encruzilhada,-23.9534861,-46.3260717
+173,176,                Rua Machado de Assis ,11050060,Boqueirão,-23.9624954,-46.327733
+174,177,                Rua Professor Torres Homem  ,11025020,Boqueirão,-23.9648026,-46.3235849
+175,178,                Rua Mato Grosso ,11055011,Boqueirão,-23.964649,-46.3260754
+176,179,                Rua Emílio Ribas  ,11015070,Vila Mathias,-23.9481686,-46.3199135
+177,180,                Praça Washington  ,11065600,José Menino,-23.9650615,-46.3502318
+178,181,                Rua Doutor Eduardo Dias Coelho  ,11060235,Gonzaga,-23.966898,-46.3370679
+179,182,                Rua Flaminio Levy ,11085080,Saboó,-23.9331245,-46.3488019
+180,183,                Rua Tolentino Filgueiras ,11060470,Gonzaga,-23.9673822,-46.3328146
+181,184,                Rua Alexandre Herculano  ,11050030,Boqueirão,-23.9648026,-46.3235849
+182,185,                Rua Doutor Lobo Viana ,11045120,Boqueirão,-23.9647004,-46.3216018
+183,186,                Rua Doutor Alfredo Porchat ,11055080,Boqueirão,-23.9648026,-46.3235849
+184,187,                Rua da Liberdade  ,11025030,Boqueirão,-23.9648026,-46.3235849
+185,188,                Rua Doutor Luís Suplicy ,11055330,Gonzaga,-23.9619275,-46.3321456
+186,189,                Rua Doutor Assis Corrêa ,11055310,Gonzaga,-23.9624233,-46.3307978
+187,190,                Rua Espírito Santo ,11075390,Campo Grande,-23.95586,-46.335039
+188,191,                Pompéia Santos ,11065000,Pompéia,-23.9510445,-46.3371486
+189,192,                Rua Soares de Camargo  ,11045050,Boqueirão,-23.965874,-46.3227121
+190,193,                Rua Professor Carlos Escobar  ,11030030,Ponta da Praia,-23.9805548,-46.2970918
+191,194,                Rua Napoleão Laureano  ,11070140,Marapé,-23.9556817,-46.3468306
+192,195,                Rua Alfredo Albertini  ,11070010,Marapé,-23.9556817,-46.3468306
+193,196,                Rua Venâncio José Lisboa ,11030080,Ponta da Praia,-23.9816738,-46.2975312
+194,197,                Rua Galeão Carvalhal ,11055201,Gonzaga,-23.967704,-46.3309403
+195,198,                Rua Cidade de Antióquia  ,11020060,Macuco,-23.9664432,-46.307251
+196,199,                Rua Major Santos Silva ,11025100,Embaré,-23.9654938,-46.3176941
+197,200,                Avenida Rei Alberto I  ,11030381,Ponta da Praia,-23.9884784,-46.2984655
+198,201,                Rua Alexandre Herculano ,11050030,Boqueirão,-23.9648026,-46.3235849
+199,202,                Rua Galeão Carvalhal  ,11055201,Gonzaga,-23.967704,-46.3309403
+200,203,                Avenida Marechal Deodoro  ,11060400,Gonzaga,-23.9673822,-46.3328146
+201,204,                Rua Professor Reinaldo Porchat ,11070220,Vila Belmiro,-23.949991,-46.3414578
+202,205,                Rua Doutor Arnaldo de Carvalho ,11075430,Campo Grande,-23.9573163,-46.3352302
+203,206,                Rua Colômbia  ,11045320,Boqueirão,-23.9701102,-46.3218895
+204,207,                Rua Rio Grande do Norte ,11065460,Pompéia,-23.9645141,-46.340898
+205,208,                Avenida Vicente de Carvalho ,11045500,Boqueirão,-23.9648026,-46.3235849
+206,209,                Praça Independência  ,11060100,Gonzaga,-23.9675553,-46.3326331
+207,210,                Vila Belmiro Santos ,11075535,Vila Belmiro,-23.9582198,-46.3380434
+208,211,                Encruzilhada Santos ,11045000,Encruzilhada,-23.9501563,-46.3222072
+209,212,                Rua Castro Alves  ,11040191,Embaré,-23.9696192,-46.3177494
+210,213,                Rua Paraíba  ,11065470,Pompéia,-23.9630212,-46.3399845
+211,214,                Avenida Senador César Lacerda Vergueiro  ,11030220,Ponta da Praia,-23.9866606,-46.3003727
+212,216,                Rua Carlos Gomes  ,11075670,Campo Grande,-23.9582251,-46.3379206
+213,217,                Rua Professor Carlos Escobar ,11030030,Ponta da Praia,-23.9805548,-46.2970918
+214,218,                Rua Antônio Ribeirão ,11065290,José Menino,-23.9680824,-46.3545306
+215,219,                Rua Governador Pedro de Tolêdo  ,11045551,Boqueirão,-23.970285,-46.324824
+216,220,                Avenida Washington Luís  ,11050200,Vila Mathias,-23.9462657,-46.3276913
+217,221,                Rua Rodrigo Silva  ,11015240,Macuco,-23.9607102,-46.3102593
+218,222,                Rua Goiás ,11050100,Boqueirão,-23.9648026,-46.3235849
+219,223,                Avenida Governador Fernando Costa ,11030181,Ponta da Praia,-23.983183,-46.2986
+220,224,                Rua Evaristo da Veiga  ,11075660,Campo Grande,-23.9582251,-46.3379206
+221,225,                Rua Liberdade ,11025030,Boqueirão,-23.9648026,-46.3235849
+222,226,                Avenida Coronel Joaquim Montenegro  ,11035000,Ponta da Praia,-23.9821374,-46.2999354
+223,227,                Rua Frei Francisco Sampaio ,11040220,Embaré,-23.9681658,-46.3134759
+224,228,                Rua Clay Presgrave do Amaral  ,11055370,Gonzaga,-23.9654261,-46.3298895
+225,229,                Rua Alfredo Ximenes  ,11065610,José Menino,-23.9644319,-46.3486483
+226,230,                Estuário Santos ,11020003,Estuário,-23.9691106,-46.3044889
+227,231,                Rua Vereador Rocha e Silva  ,11035140,Ponta da Praia,-23.9856695,-46.3048562
+228,232,                Rua Imperatriz Leopoldina ,11030480,Ponta da Praia,-23.9876006,-46.3069561
+229,233,                Rua Comendador Alfaia Rodrigues ,11025150,Embaré,-23.9681658,-46.3134759
+230,234,                Vila Mathias Santos ,11060000,Vila Mathias,-23.9678823,-46.3288865
+231,235,                Rua Doutor Armando de Sales Oliveira  ,11050070,Boqueirão,-23.9648026,-46.3235849
+232,236,                Rua Coronel Cândido Gomes ,11065320,José Menino,-23.967168,-46.3564396
+233,237,                Avenida Almirante Cochrane  ,11040000,Aparecida,-23.9735381,-46.3055176
+234,239,                Rua Guaiaó  ,11035260,Aparecida,-23.9803727,-46.3067913
+235,240,                Rua Quintino Bocaiúva  ,11060230,Gonzaga,-23.9671628,-46.3372207
+236,241,                Rua Guaibe ,11035191,Aparecida,-23.9776041,-46.3062911
+237,242,                Rua Áureliano Coutinho ,11040241,Embaré,-23.9709427,-46.3134987
+238,243,                Rua Ceará ,11065430,Pompéia,-23.9643144,-46.3419868
+239,244,                Rua Joaquim Távora  ,11075300,Vila Mathias,-23.9462657,-46.3276913
+240,245,                Rua Vereador Henrique Soler  ,11030011,Ponta da Praia,-23.9824725,-46.2976242
+241,246,                Rua Monsenhor Paula Rodrigues ,11075350,Vila Belmiro,-23.9509272,-46.3317511
+242,247,                Rua Álvaro Alvim ,11040131,Embaré,-23.9729193,-46.3175021
+243,248,                Rua Oswaldo Cochrane  ,11040111,Embaré,-23.9725344,-46.3146161
+244,249,                Rua Saturnino de Brito  ,11070000,Marapé,-23.9556817,-46.3468306
+245,250,                Avenida Washington Luiz ,11050200,Vila Mathias,-23.9462657,-46.3276913
+246,251,                Rua Governador Pedro de Toledo ,11045551,Boqueirão,-23.970285,-46.324824
+247,252,                Rua Minas Gerais ,11055101,Boqueirão,-23.9681705,-46.3266214
+248,253,                Rua Pedro Borges Gonçalves ,11065300,José Menino,-23.967989,-46.3557057
+249,254,                Rua Álvaro Alvim  ,11040131,Embaré,-23.9729193,-46.3175021
+250,255,                Rua Waldomiro Silveira  ,11055150,Boqueirão,-23.9674603,-46.3255402
+251,256,                Rua Duque de Caxias ,11075680,Campo Grande,-23.9599394,-46.3415301
+252,257,                Rua Doutor Olyntho Rodrigues Dantas ,11050220,Encruzilhada,-23.9531618,-46.3297537
+253,258,                Rua Cunha Moreira ,11050240,Encruzilhada,-23.9534861,-46.3260717
+254,259,                Rua Maranhão ,11065410,Pompéia,-23.9672866,-46.3444852
+255,260,                Rua República do Peru ,11030290,Ponta da Praia,-23.9887801,-46.3029034
+256,261,                Rua Conselheiro Lafayette  ,11040280,Embaré,-23.9723689,-46.3181665
+257,262,                Rua Professor Doutor Olavo de Paula Borges ,11035130,Ponta da Praia,-23.9843395,-46.3027009
+258,263,                Rua Arlindo de Aguiar Júnior  ,11085780,São Jorge,-23.9468947,-46.3683189
+259,264,                Praça Engenheiro José Rebouças  ,11030000,Ponta da Praia,-23.9572199942,-46.3298635211
+260,265,                Rua Comendador Alfaia Rodrigues  ,11025150,Embaré,-23.9681658,-46.3134759
+261,266,                Rua Professor Doutor Olavo de Paula Borges  ,11035130,Ponta da Praia,-23.9843395,-46.3027009
+262,267,                Rua Alexandre Fleming ,11040010,Aparecida,-23.9738124,-46.3106906
+263,268,                Rua Dom Pedro I ,11075550,Vila Belmiro,-23.9525943,-46.339434
+264,269,                Rua Álvares de Azevedo  ,11045130,Boqueirão,-23.9658242,-46.3206555
+265,270,                Rua da Paz  ,11045520,Boqueirão,-23.9686726,-46.3267704
+266,271,                Rua da Paz ,11045520,Boqueirão,-23.9686726,-46.3267704
+267,272,                Rua Piauí  ,11065420,Pompéia,-23.9649688,-46.3431841
+268,273,                Rua Almirante Barroso ,11075440,Campo Grande,-23.9578026,-46.3366445
+269,274,                Avenida Senador Cesar Lacerda de Vergueiro ,11030220,Ponta da Praia,-23.9866606,-46.3003727
+270,275,                Rua José Clemente Pereira ,11070320,Campo Grande,-23.9582251,-46.3379206
+271,276,                Rua Voluntários Santistas  ,11055020,Boqueirão,-23.9651124,-46.3261718
+272,277,                Rua Soares de Camargo ,11045050,Boqueirão,-23.965874,-46.3227121
+273,278,                Rua Vergueiro Steidel ,11040270,Embaré,-23.9681658,-46.3134759
+274,279,                Rua Dona Maria Máximo  ,11030101,Ponta da Praia,-23.9648700017,-46.3382349618
+275,280,                Rua Doutor João Éboli ,11015535,Vila Nova,-23.9420221,-46.3271909
+276,281,                Rua Antônio Bento de Amorim  ,11070170,Vila Belmiro,-23.95104,-46.3411449
+277,282,                Rua Amaral Gurgel ,11035120,Ponta da Praia,-23.982049,-46.3021843
+278,283,                Rua Ana Pimentel ,11030050,Ponta da Praia,-23.9794241,-46.298834
+279,284,                Rua Espírito Santo  ,11075390,Campo Grande,-23.95586,-46.335039
+280,285,                Praça Fernandes Pacheco  ,11060410,Gonzaga,-23.9641845,-46.3351192
+281,286,                Rua Fernão Dias ,11055220,Gonzaga,-23.9686124,-46.331751
+282,287,                Rua Frederico Ozanam ,11065240,José Menino,-23.9672145,-46.3484681
+283,288,                Rua São José  ,11088501,Rádio Clube,-23.9678823,-46.3288865
+284,289,                Rua Dona Anália Franco ,11040070,Aparecida,-23.978649,-46.3145804
+285,291,                Rua Mário Carpenter  ,11055260,Gonzaga,-23.9685524,-46.3303159
+286,292,                Rua Ministro João Mendes ,11040261,Embaré,-23.9713823,-46.3152154
+287,293,                Rua Tolentino Filgueiras  ,11060470,Gonzaga,-23.9673822,-46.3328146
+288,294,                Avenida Affonso Penna ,11020000,Boqueirão,-23.9648026,-46.3235849
+289,296,                Rua Vereador Alvaro Guimarães  ,11088180,Rádio Clube,-23.9678823,-46.3288865
+290,297,                Rua Visconde de Cayru  ,11075700,Campo Grande,-23.9582251,-46.3379206
+291,298,                São Jorge Santos ,11085691,São Jorge,-23.95101,-46.3674567
+292,299,                Rua Inglaterra ,11030510,Ponta da Praia,-23.9858337,-46.3075792
+293,300,                Rua Visconde de Faria ,11075710,Campo Grande,-23.9582251,-46.3379206
+294,301,                Rua Robert Sandall  ,11030530,Ponta da Praia,-23.9842532,-46.3068872
+295,302,                Rua Carlos Afonseca  ,11055240,Gonzaga,-23.9687872,-46.3313938
+296,303,                Rua Santa Catarina ,11065670,José Menino,-23.9672744,-46.3528881
+297,304,                Rua Dom Lara ,11045160,Boqueirão,-23.9681541,-46.3211917
+298,305,                Rua Sampaio Moreira  ,11040080,Embaré,-23.9765496,-46.3151889
+299,306,                Praça Doutor Hipólito do Rego ,11045310,Embaré,-23.972505,-46.320369
+300,307,                Rua Doutor Alamir Martins ,11055270,Gonzaga,-23.969328,-46.3299955
+301,308,                Rua Doutor Carvalho de Mendonça  ,11070100,Encruzilhada,-23.9534861,-46.3260717
+302,309,                Rua Oswaldo Cochrane ,11040111,Embaré,-23.9725344,-46.3146161
+303,310,                Manoel Ferramenta Júnior  ,11086400,Areia Branca,-23.947655,-46.3747505
+304,311,                Rua São Judas Tadeu ,11070040,Marapé,-23.9542025,-46.3502339
+305,312,                Avenida Doutor Haroldo de Camargo ,11087500,Castelo,-23.9503978,-46.3780436
+306,313,                Rua Vahia de Abreu  ,11050120,Boqueirão,-23.9648026,-46.3235849
+307,314,                Rua Luís de Camões ,11015401,Vila Mathias,-23.9517065,-46.3237177
+308,315,                Rua Robert Sandall ,11030530,Ponta da Praia,-23.9842532,-46.3068872
+309,316,                Rua Pedro Américo  ,11075400,Campo Grande,-23.9582251,-46.3379206
+310,317,                Rua Doutor Batista Pereira  ,11015101,Macuco,-23.9597443,-46.3177077
+311,318,                Rua Martim Francisco ,11015480,Encruzilhada,-23.9507306,-46.3275675
+312,319,                Praça Nossa Senhora do Carmo ,11030230,Ponta da Praia,-23.9866314,-46.2997018
+313,320,                Rua Alfredo Albertini ,11070010,Marapé,-23.9556817,-46.3468306
+314,321,                Rua Cunha Moreira  ,11050240,Encruzilhada,-23.9534861,-46.3260717
+315,322,                Rua Comendador Martins ,11015530,Vila Mathias,-23.9462657,-46.3276913
+316,323,                Rua Doutor Amílcar Mendes Gonçalves ,11045060,Boqueirão,-23.9667073,-46.3229431
+317,324,                Rua Clóvis Beviláqua ,11045350,Boqueirão,-23.9702198,-46.3213192
+318,325,                Rua Campos Melo ,11015010,Vila Mathias,-23.9678823,-46.3288865
+319,326,                Rua Mato Grosso  ,11055011,Boqueirão,-23.964649,-46.3260754
+320,327,                Praça José Domingues Martins  ,11035010,Aparecida,-23.9758002,-46.2989067
+321,328,                Rua Martin Afonso  ,11010061,Centro,-23.9378221,-46.3272836
+322,329,                Rua Senador Lacerda Franco ,11025180,Aparecida,-23.9716014,-46.303976
+323,330,                Rua Doutor Carvalho de Mendonça ,11070100,Encruzilhada,-23.9534861,-46.3260717
+324,331,                Rua Coronel Pedro Arbues  ,11035050,Ponta da Praia,-23.9816321,-46.3037867
+325,332,                Rua Azevedo Sodré ,11055050,Boqueirão,-23.9648026,-46.3235849
+326,333,                Manoel Ferramenta Júnior ,11086400,Areia Branca,-23.947655,-46.3747505
+327,334,                Rua Dom Duarte Leopoldo e Silva ,11070130,Marapé,-23.9556817,-46.3468306
+328,335,                Rua Amazonas ,11075420,Campo Grande,-23.9549186,-46.3338269
+329,336,                Rua Afonso Celso de Paula Lima  ,11030460,Ponta da Praia,-23.9898092,-46.3075212
+330,337,                Rua Castro Alves ,11040191,Embaré,-23.9696192,-46.3177494
+331,338,                Praça dos Expedicionários  ,11065500,Gonzaga,-23.9595522,-46.3321711
+332,339,                Rua Professor Tarquínio Silva  ,11070070,Marapé,-23.9598651,-46.3462045
+333,340,                Rua Doutor Lincoln Feliciano ,11045560,Boqueirão,-23.9697914,-46.3284149
+334,341,                Rua General Rondon ,11030570,Aparecida,-23.9798589,-46.3118089
+335,342,                Rua Alfredo Ximenes ,11065610,José Menino,-23.9644319,-46.3486483
+336,343,                Rua Liberdade  ,11025030,Boqueirão,-23.9648026,-46.3235849
+337,344,                Rua Goytacazes  ,11055210,Gonzaga,-23.9673822,-46.3328146
+338,345,                Rua Conselheiro Lafayette ,11040280,Embaré,-23.9723689,-46.3181665
+339,346,                Rua Marcelo Ribeiro de Mendonça  ,11030210,Ponta da Praia,-23.9864328,-46.2983035
+340,347,                Areia Branca Santos ,11086400,Areia Branca,-23.947655,-46.3747505
+341,348,                Rua Fábio Montenegro ,11060475,Gonzaga,-23.9645793,-46.3293136
+342,349,                Rua Almirante Barroso  ,11075440,Campo Grande,-23.9578026,-46.3366445
+343,350,                Rua Manoel Neves dos Santos  ,11087290,Castelo,-23.944558,-46.3825519
+344,351,                Rua Doutor Itapura de Miranda  ,11055090,Boqueirão,-23.9656138,-46.3246973
+345,352,                Rua Monteiro Lobato ,11065280,José Menino,-23.9681754,-46.3547742
+346,353,                Rua Goytacazes ,11055210,Gonzaga,-23.9673822,-46.3328146
+347,354,                Rua Firmino Barbosa ,11055130,Boqueirão,-23.9673628,-46.3266847
+348,355,                Rua Hélio Ansaldo ,11015222,Macuco,-23.9629247,-46.3121315
+349,356,                Rua Doutor Bezerra de Menezes  ,11020050,Macuco,-23.9645325,-46.3058489
+350,357,                Rua Doutor Armando de Sales Oliveira ,11050070,Boqueirão,-23.9648026,-46.3235849
+351,358,                Rua Flaminio Levy  ,11085080,Saboó,-23.9331245,-46.3488019
+352,359,                Rua Hércules Florence  ,11070410,Marapé,-23.9632222,-46.3513415
+353,360,                Praça Ruy de Lugo Viña  ,11085030,Saboó,-23.930916,-46.3463018
+354,362,                Avenida Doutor Pedro Lessa  ,11025001,Ponta da Praia,-23.9821374,-46.2999354
+355,363,                Rua Doutor Germano Melchert ,11045210,Embaré,-23.9668843,-46.3195527
+356,364,                Rua Governador Pedro de Toledo  ,11045551,Boqueirão,-23.970285,-46.324824
+357,365,                Rua Dona Amélia Leuchtenberg  ,11030020,Ponta da Praia,-23.9815581,-46.2973596
+358,366,                Avenida Doutor Pedro Lessa ,11025001,Ponta da Praia,-23.9821374,-46.2999354
+359,367,                Rua Galeão Coutinho  ,11040210,Embaré,-23.969086,-46.3192361
+360,368,                Rua República do Equador  ,11030150,Ponta da Praia,-23.9821374,-46.2999354
+361,369,                Rua Pedro Borges Gonçalves  ,11065300,José Menino,-23.967989,-46.3557057
+362,370,                Avenida Senador Cesar Lacerda de Vergueiro  ,11030220,Ponta da Praia,-23.9866606,-46.3003727
+363,371,                Rua Afonso Celso de Paula Lima ,11030460,Ponta da Praia,-23.9898092,-46.3075212
+364,372,                Rua Guaibê  ,11035191,Aparecida,-23.9776041,-46.3062911
+365,373,                Rua Almirante Tamandaré  ,11015250,Macuco,-23.9617152,-46.3092047
+366,374,                Rua Tocantins  ,11055340,Gonzaga,-23.9673822,-46.3328146
+367,375,                Avenida Doutor Epitácio Pessoa ,11045301,Boqueirão,-23.9648026,-46.3235849
+368,376,                Rua Coronel Pedro Arbues ,11035050,Ponta da Praia,-23.9816321,-46.3037867
+369,377,                Rua Bolívia  ,11035210,Aparecida,-23.9760876,-46.3033322
+370,378,                Rua Lucas Fortunato ,11075200,Vila Mathias,-23.9462657,-46.3276913
+371,379,                Avenida Senador Pinheiro Machado  ,11075000,Marapé,-23.9556817,-46.3468306
+372,380,                Rua Adolfo Lutz ,11035060,Ponta da Praia,-23.9816599,-46.3029842
+373,381,                Rua Coronel Proost de Sousa ,11040090,Embaré,-23.9765496,-46.3151889
+374,382,                Praça João Barbalho ,11065450,Pompéia,-23.9660453,-46.3423688
+375,383,                Rua 1 de Maio  ,11035181,Aparecida,-23.9781859,-46.3044871
+376,384,                Rua Doutor José Dias de Moraes  ,11090100,Bom Retiro,-23.9381322,-46.3746498
+377,385,                Morro Nova Cintra Santos ,11080190,Morro Nova Cintra,-23.944279,-46.359151
+378,386,                Rua 1 de Maio  ,11035181,Aparecida,-23.9781859,-46.3044871
+379,387,                Rua Nabuco de Araújo  ,11025010,Boqueirão,-23.9648026,-46.3235849
+380,388,                Avenida Rangel Pestana ,11013550,Vila Mathias,-23.9678823,-46.3288865
+381,390,                Rua Doutor Isidoro José Ribeiro Campos ,11030490,Ponta da Praia,-23.9874313,-46.3077987
+382,392,                Rua Tupys  ,11065620,José Menino,-23.9644578,-46.3478919
+383,393,                Rua Paraná ,11050250,Encruzilhada,-23.9534861,-46.3260717
+384,394,                Rua Alan Ciber Pinto  ,11085625,São Jorge,-23.9475065,-46.3645892
+385,395,                Rua Ricardo Pinto ,11035171,Aparecida,-23.983091,-46.3099026
+386,396,                Rua 1 de Maio ,11035181,Aparecida,-23.9781859,-46.3044871
+387,397,                Avenida Affonso Penna  ,11020000,Boqueirão,-23.9648026,-46.3235849
+388,398,                Rua Goiás  ,11050100,Boqueirão,-23.9648026,-46.3235849
+389,399,                Rua Comendador Martins  ,11015530,Vila Mathias,-23.9462657,-46.3276913
+390,400,                Rua João Caetano  ,11070310,Campo Grande,-23.9582251,-46.3379206
+391,401,                Rua Enguaguaçu  ,11035071,Ponta da Praia,-23.9827209,-46.3032448
+392,402,                Rua Capitão Alberto Mendes Júnior ,11015290,Macuco,-23.963694,-46.3087958
+393,403,                Rua Professor Primo Ferreira ,11045150,Boqueirão,-23.9674291,-46.3211215
+394,404,                Rua Carolino Rodrigues ,11055070,Boqueirão,-23.9664029,-46.3267361
+395,405,                Travessa Lélia ,11030580,Aparecida,-23.9786699,-46.3118447
+396,406,                Rua Álvares de Azevedo ,11045130,Boqueirão,-23.9658242,-46.3206555
+397,407,                Rua Ministro João Mendes  ,11040261,Embaré,-23.9713823,-46.3152154
+398,408,                Rua Enguaguaçu ,11035071,Ponta da Praia,-23.9827209,-46.3032448
+399,409,                Rua Jurubatuba  ,11035101,Aparecida,-23.9771469,-46.3034987
+400,410,                Rua Bento de Barros ,11070430,Marapé,-23.9603292,-46.3481368
+401,411,                Avenida Nossa Senhora de Fátima  ,11085200,Saboó,-23.9325318,-46.3492743
+402,412,                Rua Professor Nelson Espíndola Lobato  ,11088330,Rádio Clube,-23.9678823,-46.3288865
+403,413,                Avenida Jovino de Mello  ,11089000,Santa Maria,-23.9405257,-46.3700979
+404,414,                Rua Tocantins ,11055340,Gonzaga,-23.9673822,-46.3328146
+405,415,                Rua Governador Pedro de Tolêdo ,11045551,Boqueirão,-23.970285,-46.324824
+406,416,                Rua Marquês de São Vicente  ,11075690,Campo Grande,-23.9621895,-46.3409909
+407,417,                Rua Doutor Alamir Martins  ,11055270,Gonzaga,-23.969328,-46.3299955
+408,418,                Praça da Independência  ,11060100,Gonzaga,-23.9675553,-46.3326331
+409,419,                Rua Campos Mello ,11015010,Vila Mathias,-23.9678823,-46.3288865
+410,420,                Rua Clay Presgrave do Amaral ,11055370,Gonzaga,-23.9654261,-46.3298895
+411,421,                Rua Doutor Francisco de Souza Dantas ,11070160,Marapé,-23.9520087,-46.3440914
+412,423,                Rua Newton Prado ,11065260,José Menino,-23.9674833,-46.3504979
+413,424,                Rua Luís de Camões  ,11015401,Vila Mathias,-23.9517065,-46.3237177
+414,426,                Chico de Paula Santos ,11090001,Chico de Paula,-23.9271458,-46.3776864
+415,427,                José Menino Santos ,11065690,José Menino,-23.9660028,-46.3503258
+416,428,                Saboó Santos ,11085000,Saboó,-23.9325318,-46.3492743
+417,429,                Rua Doutor Isidoro José Ribeiro Campos  ,11030490,Ponta da Praia,-23.9874313,-46.3077987
+418,430,                Rua General Jardim ,11025160,Embaré,-23.9685829,-46.3078007
+419,431,                Rua Doutor Manoel Victorino  ,11060430,Gonzaga,-23.9615457,-46.3356697
+420,433,                Rua Waldomiro Silveira ,11055150,Boqueirão,-23.9674603,-46.3255402
+421,434,                Rua José Gonçalves da Mota Jr. ,11070230,Vila Belmiro,-23.9510445,-46.3371486
+422,435,                Rua Bolivar  ,11045360,Boqueirão,-23.9689307,-46.3213339
+423,436,                Rua Galeão Coutinho ,11040210,Embaré,-23.969086,-46.3192361
+424,437,                Rua João Pinho ,11055060,Boqueirão,-23.9653845,-46.3275817
+425,438,                Avenida Ana Costa ,11060000,Vila Mathias,-23.9678823,-46.3288865
+426,439,                Rua Dom Gaspar de Afonseca ,11055360,Gonzaga,-23.964079,-46.3302681
+427,441,                Rua Brigadeiro Galvão  ,11030370,Ponta da Praia,-23.9875537,-46.304464
+428,442,                Rua Barão de Cotegipe ,11025050,Boqueirão,-23.9614062,-46.3204395
+429,443,                Rua César Augusto de Castro Rios  ,11086415,Areia Branca,-23.949196,-46.3750692
+430,444,                Rua Estados Unidos da Venezuela  ,11030270,Ponta da Praia,-23.9856634,-46.3011214
+431,445,                Rua Jurubatuba ,11035101,Aparecida,-23.9771469,-46.3034987
+432,446,                Rua Eloy Fernandes  ,11055110,Boqueirão,-23.9671941,-46.3275557
+433,447,                Rua Doutor Alfredo Porchat  ,11055080,Boqueirão,-23.9648026,-46.3235849
+434,448,                Rua Doutor Guedes Coelho ,11050231,Encruzilhada,-23.9536199,-46.3273746
+435,449,                Avenida Dino Bueno  ,11030351,Ponta da Praia,-23.9844523,-46.3018155
+436,450,                Rua Doutor Arnaldo de Carvalho  ,11075430,Campo Grande,-23.9573163,-46.3352302
+437,451,                Rua Cunha Moreira ,11050240,Encruzilhada,-23.9534861,-46.3260717
+438,452,                Rua Pedro Ivo ,11025140,Embaré,-23.9684289,-46.3092656
+439,453,                Paquetá Santos ,11015000,Paquetá,-23.9362153,-46.3208162
+440,454,                Santa Maria Santos ,11089000,Santa Maria,-23.9405257,-46.3700979
+441,455,                Travessa Aliança ,11060240,Gonzaga,-23.9678637,-46.3381187
+442,456,                Avenida Pedro Lessa  ,11025001,Ponta da Praia,-23.9821374,-46.2999354
+443,457,                Rua General Rondon  ,11030570,Aparecida,-23.9798589,-46.3118089
+444,458,                Rua Aureliano Coutinho ,11040241,Embaré,-23.9709427,-46.3134987
+445,459,                Rua Marechal José Olintho de Carvalho ,11070210,Vila Belmiro,-23.9493349,-46.339943
+446,460,                Rua  de Julho  ,11070150,Marapé,-23.9556817,-46.3468306
+447,461,                Rua Dona Anália Franco  ,11040070,Aparecida,-23.978649,-46.3145804
+448,462,                Rua Visconde de Cayru ,11075700,Campo Grande,-23.9582251,-46.3379206
+449,463,                Rua Rio Grande do Sul  ,11065660,José Menino,-23.9669159,-46.3506942
+450,464,                Rua Januário dos Santos ,11030560,Aparecida,-23.9824402,-46.3105459
+451,465,                Rua Adolfo Lutz  ,11035060,Ponta da Praia,-23.9816599,-46.3029842
+452,466,                Rua Marcílio Dias ,11060210,Gonzaga,-23.9679913,-46.3340492
+453,467,                Praça Palmares  ,11015330,Macuco,-23.9610274,-46.3162869
+454,468,                Rua Doutor Armando Salles de Oliveira ,11050070,Boqueirão,-23.9648026,-46.3235849
+455,469,                Rua Imperatriz Leopoldina  ,11030480,Ponta da Praia,-23.9876006,-46.3069561
+456,470,                Praça 1 de Maio ,11035040,Ponta da Praia,-23.9783253,-46.3003111
+457,471,                Praça José Domingues Martins ,11035010,Aparecida,-23.9758002,-46.2989067
+458,472,                Rua Pará  ,11050250,Encruzilhada,-23.9534861,-46.3260717
+459,473,                Rua Doutor Egídio Martins  ,11030161,Ponta da Praia,-23.9854292,-46.3002491
+460,474,                Avenida dos Bancários  ,11030300,Ponta da Praia,-23.9821374,-46.2999354
+461,475,                Rua Djalma Dutra ,11055280,Gonzaga,-23.9668438,-46.3316928
+462,476,                Rua Presidente Arthur Bernardes ,11040180,Embaré,-23.9686436,-46.3160143
+463,477,                Rua Dois  ,11081215,Morro Penha,-23.9313912,-46.3423575
+464,478,                Rua Padre Anchieta ,11015120,Macuco,-23.9573742,-46.3145048
+465,479,                Rua Carolino Rodrigues  ,11055070,Boqueirão,-23.9664029,-46.3267361
+466,480,                Rua Armando Didion Doneux  ,11086090,Areia Branca,-23.9443746,-46.3723702
+467,481,                Rua Machado de Assis  ,11050060,Boqueirão,-23.9624954,-46.327733
+468,482,                Rua Pará ,11050250,Encruzilhada,-23.9534861,-46.3260717
+469,483,                Rua Azevedo Sodré  ,11055050,Boqueirão,-23.9648026,-46.3235849
+470,484,                Praça Visconde de Ouro Preto ,11025190,Estuário,-23.9709112,-46.3020998
+471,485,                Rua Sergipe ,11060420,Gonzaga,-23.9616991,-46.3370934
+472,486,                Rua Doutor Germano Melchert  ,11045210,Embaré,-23.9668843,-46.3195527
+473,487,                Rua Voluntários Santistas ,11055020,Boqueirão,-23.9651124,-46.3261718
+474,488,                Rua Piauí ,11065420,Pompéia,-23.9649688,-46.3431841
+475,489,                Rua Maria Máximo ,11030101,Ponta da Praia,-23.9648700017,-46.3382349618
+476,490,                Rua Estados Unidos da Venezuela ,11030270,Ponta da Praia,-23.9856634,-46.3011214
+477,491,                Rua Ministro Daniel de Carvalho ,11030430,Ponta da Praia,-23.9895617,-46.299969
+478,492,                Rua Fábio Montenegro  ,11060475,Gonzaga,-23.9645793,-46.3293136
+479,493,                Rua Maestro Heitor Vila Lobos  ,11030240,Ponta da Praia,-23.9839833,-46.2985379
+480,494,                Rua Padre Visconti ,11040150,Embaré,-23.9681658,-46.3134759
+481,495,                Rua Dom Gaspar Affonseca ,11055360,Gonzaga,-23.964079,-46.3302681
+482,496,                Rua João de Barros ,11025260,Estuário,-23.9743774,-46.3001121
+483,497,                Rua Carlos de Campos ,11030470,Ponta da Praia,-23.9888717,-46.3078092
+484,498,                Rua Cidade de Tolêdo  ,11010010,Centro,-23.9609099946,-46.3339015067
+485,499,                Rua Coelho Neto ,11070390,Marapé,-23.963082,-46.348524
+486,500,                Rua Campos Melo  ,11015010,Vila Mathias,-23.9678823,-46.3288865
+487,501,                Rua Antonio Bento ,11075260,Vila Mathias,-23.9475829,-46.3316823
+488,502,                Rua Prefeito Antenor Bué ,11040020,Embaré,-23.9751299,-46.3104138
+489,503,                Rua Major Santos Silva  ,11025100,Embaré,-23.9654938,-46.3176941
+490,504,                Rua Ângelo Guerra ,11045510,Boqueirão,-23.9716373,-46.3252491
+491,505,                Rua Coelho Neto  ,11070390,Marapé,-23.963082,-46.348524
+492,506,                Rua Maranhão  ,11065410,Pompéia,-23.9672866,-46.3444852
+493,507,                Rua Doutor Egídio Martins ,11030161,Ponta da Praia,-23.9854292,-46.3002491
+494,509,                Rua Thiago Ferreira  ,11055140,Boqueirão,-23.9673391,-46.3265642
+495,510,                Rua Capitão João Salermo  ,11030440,Ponta da Praia,-23.9894661,-46.3018202
+496,511,                Praça Independência ,11060100,Gonzaga,-23.9675553,-46.3326331
+497,512,                Rua José Clemente Pereira  ,11070320,Campo Grande,-23.9582251,-46.3379206
+498,513,                Avenida Dino Bueno ,11030351,Ponta da Praia,-23.9844523,-46.3018155
+499,514,                Rua Doutor Guilherme Álvaro  ,11070370,Marapé,-23.963716,-46.349583
+500,515,                Rua João Pinho  ,11055060,Boqueirão,-23.9653845,-46.3275817
+501,516,                Rua Dona Amélia Leuchtenberg ,11030020,Ponta da Praia,-23.9815581,-46.2973596
+502,517,                Avenida Senador Feijó  ,11015500,Centro,-23.9678823,-46.3288865
+503,518,                Rua Isidoro José Ribeiro de Campos  ,11030490,Ponta da Praia,-23.9874313,-46.3077987
+504,519,                Rua Júlio Conceição ,11015540,Vila Mathias,-23.9678823,-46.3288865
+505,520,                Rua Clóvis Beviláqua  ,11045350,Boqueirão,-23.9702198,-46.3213192
+506,521,                Rua Doutor Gaspar Ricardo  ,11070350,Marapé,-23.964962,-46.3515203
+507,522,                Rua Amaral Gurgel  ,11035120,Ponta da Praia,-23.982049,-46.3021843
+508,523,                Rua Rio de Janeiro ,11075345,Campo Grande,-23.9540824,-46.3361145
+509,524,                Rua João Antunes  ,11065270,José Menino,-23.9689398,-46.353234
+510,525,                Rua Teixeira de Freitas ,11075720,Campo Grande,-23.9582251,-46.3379206
+511,526,                Rua Doutor Lobo Viana  ,11045120,Boqueirão,-23.9647004,-46.3216018
+512,527,                Rua Tupys ,11065620,José Menino,-23.9644578,-46.3478919
+513,528,                Praça da Independência ,11060100,Gonzaga,-23.9675553,-46.3326331
+514,529,                Rua Doutor Gaspar Ricardo ,11070350,Marapé,-23.964962,-46.3515203
+515,530,                Rua André Rebouças  ,11030060,Ponta da Praia,-23.9806485,-46.2982433
+516,531,                Praça Fernandes Pacheco ,11060410,Gonzaga,-23.9641845,-46.3351192
+517,532,                Rua Capitão João Salermo ,11030440,Ponta da Praia,-23.9894661,-46.3018202
+518,533,                Rua João Antunes ,11065270,José Menino,-23.9689398,-46.353234
+519,534,                Rua Frei Francisco Sampaio  ,11040220,Embaré,-23.9681658,-46.3134759
+520,535,                Rua Mario Carpenter  ,11055260,Gonzaga,-23.9685524,-46.3303159
+521,536,                Avenida General San Martin  ,11030251,Ponta da Praia,-23.9856061,-46.2996848
+522,537,                Rua Barão de Paranapiacaba  ,11050250,Encruzilhada,-23.9534861,-46.3260717
+523,539,                Rua Doutor Bezerra de Menezes ,11020050,Macuco,-23.9645325,-46.3058489
+524,540,                Rua Doutor Amílcar Mendes Gonçalves  ,11045060,Boqueirão,-23.9667073,-46.3229431
+525,541,                Rua Ceará  ,11065430,Pompéia,-23.9643144,-46.3419868
+526,542,                Rua Oliveira Lima ,11075510,Vila Belmiro,-23.9497028,-46.3375727
+527,543,                Rua Rio Grande do Norte  ,11065460,Pompéia,-23.9645141,-46.340898
+528,545,                Rua Frei Francisco de Sampaio ,11040220,Embaré,-23.9681658,-46.3134759
+529,546,                Rua Carlos Gomes ,11075670,Campo Grande,-23.9582251,-46.3379206
+530,547,                Rua Sergipe  ,11060420,Gonzaga,-23.9616991,-46.3370934
+531,548,                Rua Doutor Constancio Vaz Guimarães ,11045220,Embaré,-23.9678453,-46.3191426
+532,549,                Rua Mario Carpenter ,11055260,Gonzaga,-23.9685524,-46.3303159
+533,551,                Rua Alagoas ,11065120,Gonzaga,-23.966245,-46.3361925
+534,552,                Avenida Doutor Nilo Peçanha ,11070051,Marapé,-23.9546548,-46.3515689
+535,553,                Rua Vinte e Oito de Setembro ,11015110,Macuco,-23.9524613,-46.315516
+536,554,                Praça Rotary ,11055230,Gonzaga,-23.9673822,-46.3328146
+537,555,                Rua Décio Stuart ,11065680,José Menino,-23.9663798,-46.3514801
+538,556,                Rua Hércules Florence ,11070410,Marapé,-23.9632222,-46.3513415
+539,557,                Avenida Senador Dantas ,11015211,Estuário,-23.953783,-46.3131
+540,558,                Rua Xavier Pinheiro ,11015090,Vila Mathias,-23.9505366,-46.3204962
+541,559,                Rua Amazonas  ,11075420,Campo Grande,-23.9549186,-46.3338269
+542,560,                Rua Alfredo Shammass ,11070420,Marapé,-23.9625213,-46.3469509
+543,561,                Rua Doutor Assis Corrêa  ,11055310,Gonzaga,-23.9624233,-46.3307978
+544,562,                Avenida Afonso Schmidt ,11087001,Castelo,-23.9467467,-46.3777235
+545,563,                Rua Paraguassú  ,11050020,Boqueirão,-23.9580113,-46.3247381
+546,564,                Praça Washington ,11065600,José Menino,-23.9650615,-46.3502318
+547,565,                Rua Benjamin Constant  ,11040141,Embaré,-23.9694295,-46.3157562
+548,566,                Rua 1 de Maio ,11035181,Aparecida,-23.9781859,-46.3044871
+549,567,                Rua Nascimento ,11013740,Jabaquara,-23.9408036,-46.3403804
+550,569,                Rua Américo Martins ,11055030,Boqueirão,-23.9653418,-46.3280587
+551,570,                Rua Silva Jardim ,11015021,Vila Mathias,-23.9444845,-46.3189653
+552,571,                Rua Benjamin Constant ,11040141,Embaré,-23.9694295,-46.3157562
+553,573,                Rua Benedito Ernesto Guimarães  ,11070020,Marapé,-23.9556817,-46.3468306
+554,574,                Rua Ministro Xavier de Toledo ,11070300,Campo Grande,-23.9608469,-46.3414262
+555,575,                Rua Bento de Abreu ,11045140,Boqueirão,-23.966871,-46.32075
+556,576,                Travessa Aliança  ,11060240,Gonzaga,-23.9678637,-46.3381187
+557,578,                Rua Coronel Cândido Gomes  ,11065320,José Menino,-23.967168,-46.3564396
+558,579,                Rua Evaristo da Veiga ,11075660,Campo Grande,-23.9582251,-46.3379206
+559,580,                Rua República Argentina ,11065055,Gonzaga,-23.9638749,-46.3386257
+560,582,                Rua Doutor Gervásio Bonavides ,11015180,Macuco,-23.9567851,-46.3205364
+561,583,                Rua Delphin Moreira ,11040101,Embaré,-23.9725294,-46.313399
+562,584,                Rua Thiago Ferreira ,11055140,Boqueirão,-23.9673391,-46.3265642
+563,585,                Rua Bento de Abreu  ,11045140,Boqueirão,-23.966871,-46.32075
+564,586,                Rua Particular Santos Cruz  ,11060310,Gonzaga,-23.9673781,-46.3365904
+565,587,                Rua Doutor Manoel Victorino ,11060430,Gonzaga,-23.9615457,-46.3356697
+566,588,                Rua Firmino Barbosa  ,11055130,Boqueirão,-23.9673628,-46.3266847
+567,589,                Rua Vereador Henrique Soler . ,11030011,Ponta da Praia,-23.9824725,-46.2976242
+568,590,                Rua Alexandre Martins . ,11025200,Aparecida,-23.9735381,-46.3055176
+569,591,                Praça Nossa Senhora Aparecida  ,11025025,Aparecida,-23.9729561,-46.3025269
+570,592,                Rua Colômbia ,11045320,Boqueirão,-23.9701102,-46.3218895
+571,593,                Rua Bolívia ,11035210,Aparecida,-23.9760876,-46.3033322
+572,594,                Rua Pereira Barreto  ,11065110,Gonzaga,-23.9665436,-46.3351796
+573,595,                Rua Prefeito Antenor Bué  ,11040020,Embaré,-23.9751299,-46.3104138
+574,596,                Rua Doutor Guedes Coelho  ,11050231,Encruzilhada,-23.9536199,-46.3273746

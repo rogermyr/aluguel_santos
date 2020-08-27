@@ -19,3 +19,8 @@ Para este projeto foram considerados apenas os bairros que tiveram mais de 100 e
 * numpy==1.19.1
 * scikit-learn==0.23.2
 * xgboost==0.90
+
+### Desenvolvimento do Projeto:
+Na pasta "Desenvolvimento" possui todo o desenvolvimento do projeto, desde as ferramentas utilizadas para fazer o webscrapping até a criação do arquivo com o modelo já treinado a ser utilizado no nosso deploy.
+#
+Todo o desenvolvimento pode ser acompanhado através do arquivo "Aluguel - Santos.ipynb".
